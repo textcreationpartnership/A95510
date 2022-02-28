@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolver, or, A short vvord, to the large question of the times. Concerning the Parliament: and confirming the proceedings about the King. Being, a letter written to a deare friend, tending to satisfie him. At least, to shew the authour rationall, in approving the proceedings of the Army. / Imprimatur Gilbert Mabbot.</title>
+            <author>N. T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95510</idno>
+            <idno type="STC">Wing T40</idno>
+            <idno type="STC">Thomason E527_10</idno>
+            <idno type="STC">ESTC R205667</idno>
+            <idno type="EEBO-CITATION">99864979</idno>
+            <idno type="PROQUEST">99864979</idno>
+            <idno type="VID">117212</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117212)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 82:E527[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolver, or, A short vvord, to the large question of the times. Concerning the Parliament: and confirming the proceedings about the King. Being, a letter written to a deare friend, tending to satisfie him. At least, to shew the authour rationall, in approving the proceedings of the Army. / Imprimatur Gilbert Mabbot.</title>
+                  <author>N. T.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.C. and are to be sold at the Crown in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: N.T.</note>
+                  <note>Annotation on Thomason copy: "Jan: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117212:1" rendition="simple:additions"/>
+            <p>THE RESOLVER, OR, A SHORT VVORD, TO THE LARGE QUESTION OF THE TIMES. CONCERNING The <hi>Parliament:</hi> And confirming the Procee<g ref="char:EOLhyphen"/>dings about the KING. BEING, A Letter written to a deare Friend, tending to ſatisfie him. At leaſt, to ſhew the Authour rationall, in approving the proceedings of the Army.</p>
+            <q>Debita ſanguineo, mors ſanguinolenta tyranno.</q>
+            <q>
+               <p>He that ſheds mans blood, by man ſhall his blood be ſhed.</p>
+               <bibl>Gen. 9.6.</bibl>
+            </q>
+            <q>
+               <p>Thou ſhalt not be joyned with them in buriall, becauſe thou haſt deſtroyed thy land, and ſlain thy people.</p>
+               <bibl>Eſay
+14.20.</bibl>
+            </q>
+            <q>
+               <p>Indignus enim eſt quem terra ſinu ſuo excepiat ac contegat, is, qui eam vaſtarit, &amp; in<g ref="char:EOLhyphen"/>nocentium ſanguine corrupit:</p>
+               <bibl>Marlorat in locum.</bibl>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>GILBERT MABBOT.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by I. C. and are to be ſold at the
+<hi>Crown</hi> in <hi>Popes-head-Alley</hi> 1648.</p>
+         </div>
+         <div type="printer_to_the_reader">
+            <pb facs="tcp:117212:2"/>
+            <head>The Printer to the Reader.</head>
+            <p>THis Letter ſhould have been Printed upon the third of this inſtant <hi>Ianuary,</hi> But ſomething hin<g ref="char:EOLhyphen"/>dred them: Since that the
+<hi>Armies</hi> ſeizing of the Mem<g ref="char:EOLhyphen"/>bers, hath been fully vindicated, both by themſelves, and others. Yet they being here more brifely touched upon. And the queſtion of the proceedings about the King, not as yet ſpake too (at leaſt) ſo directly as here. I hope this will not be unpleaſing to the Reader to <hi>peruſe,</hi> nor to the Author to ſee it in
+<hi>Print.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Jan. 17.
+1648.</date>
+               </dateline> 
+               <signed>Imprimatur, GILBERT MABBOT.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:117212:2"/>
+            <head>THE RESOLVER, <hi>OR,</hi> A <hi>ſhort word</hi> to the
+<hi>large queſtion</hi> of the times, con<g ref="char:EOLhyphen"/>cerning the <hi>Armies</hi> ſeizing the Members of the <hi>Parliament,</hi> and confirming the pro<g ref="char:EOLhyphen"/>ceedings about the <hi>King,</hi> &amp;c.</head>
+            <opener>
+               <salute>Deare Friend,</salute>
+            </opener>
+            <p>THe <hi>tranſactions</hi> of affaires on foot are
+<hi>weighty,</hi> and in our <hi>concluſions</hi> concer<g ref="char:EOLhyphen"/>ning them, we had need be <hi>wary.</hi> He that is to paſſe over the amazing Sea of
+<hi>politiques,</hi> had need have a ſtout <hi>Ship,</hi> and a skilfull
+<hi>Pilote.</hi> Its <hi>cowar<g ref="char:EOLhyphen"/>dize</hi> not to own a good cauſe, when it ſo appeares. But its <hi>madneſſe</hi> to ac<g ref="char:EOLhyphen"/>count every cauſe good, that is ſo called; raſhneſs in any thing (eſpecially of weighty) is irrationall. I have a long time bin a ſerious, and ſilent
+<hi>ſpectator</hi> of the late <hi>Trage<g ref="char:EOLhyphen"/>dies</hi> which have been over-acted upon the <hi>Engliſh Stage:</hi> And if I ſhould ſay, I have beheld them with my eyes, my heart would at once witneſſe againſt me, and con<g ref="char:EOLhyphen"/>demn me. <hi>Miſery</hi> hath a power upon <hi>men</hi> (much more upon
+<hi>Chriſtians</hi>) to cauſe <hi>mourning.</hi> A ſafe, and a ſpeedy period of theſe ſad, and ſhaking affaires is, that which is deſired by all, and endeavoured by ſome: But alas! <hi>Who is ſufficient for theſe things.</hi> I confeſſe, I long and looke for a <hi>full, juſt,</hi> and
+<hi>grounded peace,</hi> becauſe the mouth of the Lord of hoſts hath promiſed it; But the queſtion is, whether the things now in agitation, have a tendancy thereunto. Now, that <hi>juſtice</hi> (rightly adminiſtred) is the <hi>path to peace;</hi> I think none that is but <hi>morally-wiſe</hi> will denye. And that <hi>puniſh<g ref="char:EOLhyphen"/>ment of offenders,</hi> is a prime peece of
+<hi>juſtice,</hi> was ever maintained by thoſe, who were any thing verſt in <hi>politiques.</hi> The doubt then is not for, much about the
+<hi>matter,</hi> as a<g ref="char:EOLhyphen"/>bout the <hi>manner</hi> of the things now tranſacted.</p>
+            <p>Two things you ſcruple, in order to the removal, of which this is,</p>
+            <p>Firſt, you queſtion: <hi>Whether the Armies ſeizing, and ſecluding the Members of the Parliament be not rather a violation of juſtice, then an expedient for peace.</hi> For ſuppoſe them (ſay you) guilty, yet to ceize and ſecure them, was not regular: and confident you are, that it was the breach of their priviledges, and ſo not only above the power, but againſt the Proteſtation of the Army. And ſecondly, you ſay, you are in the dark <hi>about the peoples power over Princes,</hi> and the quaere, whether the tryall of the <hi>King,</hi> either by <hi>Army,</hi> or
+<hi>Parliament,</hi> may be lawfull.</p>
+            <p>In Anſwer to both theſe, I return briefly thus.</p>
+            <p>Firſt, as touching the <hi>Armies ſeiſure of the Members,</hi> and therein of their breach of priviledge, I return thus.</p>
+            <p n="1">1. <hi>I am as yet ignorant of thoſe</hi> Arcana Imperii, i.e. <hi>what the priviledges of Parlia<g ref="char:EOLhyphen"/>ment are in their juſt latitude,</hi> Only I am apt to think, that as all was not <hi>prerogative.<pb n="2" facs="tcp:117212:3"/>(juſt)</hi> which the <hi>King</hi> and his faction ſo named; ſo neither are all thoſe juſt <hi>privi<g ref="char:EOLhyphen"/>ledges</hi> (which <hi>alone</hi> were proteſted to maintain) which certain <hi>Parliamentary Gran<g ref="char:EOLhyphen"/>dees</hi> are pleaſed ſo to declare: Certain, the <hi>King</hi> did deceive, while he ſaid, every thing (or moſt) which the Parliament did againſt him, was an invation of his <hi>preroga<g ref="char:EOLhyphen"/>tive;</hi> And why the <hi>Parliamentees</hi> may not delude alſo, when they cry out breach of <hi>priviledges,</hi> I know not. But I hope that ere long, we ſhall know the <hi>juſt bounds of Parliamentary Priviledges,</hi> and then, we ſhall ſee who tranſgreſſe.</p>
+            <p n="2">2. <hi>As yet its not declared by thoſe, whoſe innocency continues then in the houſe, that what was ſo done by the Army, was a breach of Parliamentary Priviledges:</hi> Nay, while they deſire to know the reaſons thereof, do they not tacitly include, that it was not. It were as eaſie for them to ſay, you have broke the <hi>Priviledges,</hi> as to intreat an ac<g ref="char:EOLhyphen"/>count of that action. The <hi>Juſtice,</hi> who only askes the
+<hi>Conſtable,</hi> why he ſecured ſuch a perſon upon ſuſpition of felony, and doth in it ſilently hint, that the very ſecuring was unjuſt.</p>
+            <p n="3">3. <hi>What ever be their Priviledge in Parliament, I am perſwaded to think that it is not (at leaſt) a juſt Priviledge to be free altogether from Arreſts,</hi> (for then what would the City Creditors do, &amp;c.) And I am eaſily convinced, that it may be as juſt to
+<hi>Arreſt</hi> (and above an <hi>Arreſt,</hi> the <hi>Army</hi> hath not acted) for ſuſpition of Treaſon, as for any debt whatſoever.</p>
+            <p n="4">4. <hi>The Commiſſion of the Army was to take, and ſecure (at leaſt) all ſuch as either more publikely, or more privately, were enemies to the Kingdom:</hi> And why, a <hi>Parliament-man</hi> being ſuch, ſhould be exempted, I know not: ſure there was no ſuch proviſo, in the Commiſſion: that in caſe they were <hi>Parliament-men,</hi> that acted againſt the King<g ref="char:EOLhyphen"/>dom, they ſhould not be taken hold of. It had been well for ſome <hi>rotten</hi> and <hi>Revol<g ref="char:EOLhyphen"/>ted Members,</hi> ſuch a clauſe had been in: but then it were ill for the Kingdom.</p>
+            <p>Laſtly, Admit the action <hi>exentrick,</hi> and not avoyding to the <hi>formalities</hi> of Law, (which have him at beſt, a hinderance to
+<hi>juſtice</hi>) yet the caſe is extraordinary, <hi>neceſſity is the Law royall.</hi> And how many Acts, which in their <hi>fieri,</hi> or doing, have not bin ſo <hi>legall;</hi> have yet in their <hi>fact</hi> or
+<hi>Act,</hi> bin declared (even by the <hi>Parliament,</hi>)
+<hi>neceſſary,</hi> and therefore <hi>warrantable,</hi> is known to all: That there was a neceſſity to compell, (and for to authorize) the other is cleare. Suppoſe that ſome <hi>Pilots,</hi> to whoſe care the ſafety, &amp; ſteerage of ſome ſhip were committed, ſhould upon their being a ſhore, and in company with ſome <hi>Pirates,</hi> conclude to go aboard, and to conſpire there a<g ref="char:EOLhyphen"/>gainſt the owners, and venturers in the Ship: either to betray it to the <hi>Pirates,</hi> or to detain it themſelves. Now ſuppoſe ſome of the <hi>Seamen,</hi> who were to man it, as to Warre, and to fight for the ſafety, and ſecurity of the Ship, ſhould upon the hearing, or knowledge of their deſign, ſtop the <hi>perfidious Pilots,</hi> and not permit them to go a<g ref="char:EOLhyphen"/>broad that morning when they intended to do as they deſigned, and detain them ſafely, till they had given an accompt hereof to the Marchants and owners: would, or could any man ſay? the men of Warre, or Seamen did more, then upon this <hi>ne<g ref="char:EOLhyphen"/>ceſſitie,</hi> they were bound to do. I know you are quick, and can apply. The allegory of a Ship is
+<hi>platonick.</hi> And what the Members were about to vote that morning when they were ſeized, is not <hi>Apocriphall.</hi>
+            </p>
+            <p>This to the firſt of the ſcruples. As touching the other that conſernes the <hi>quon<g ref="char:EOLhyphen"/>dam King.</hi> Reſerving my large thoughts, till a fitter opportunity, at preſent, I ſhall only offer briefly, as followes.</p>
+            <p>
+               <pb n="3" facs="tcp:117212:3"/>Firſt. <hi>No King is</hi> ex Lex, i.e.
+<hi>either, without, or above the Law:</hi> Indeed ſome have ſaid, the
+<hi>King</hi> could not ſin, I am ſure 'tis falſe <hi>Divinity,</hi> and fained <hi>Law,</hi> why <hi>Kings</hi> ſhould have a <hi>Prerogative</hi> to do evill, without controwle, or tryall, is above my thoughts to conceive, and againſt reaſon to conclude, 'Twas <hi>Court Divinity,</hi> that the
+<hi>King</hi> was re<g ref="char:EOLhyphen"/>ſponcible to God only, but this Divinity of the
+<hi>Court,</hi> is not <hi>currant.</hi>
+            </p>
+            <p>Secondly. The <hi>Armies</hi> Charge is no more, then what this very <hi>Parliament,</hi> and ſome of the <hi>Apoſtate Members,</hi> long ſince have taught them, and the Kingdom to make.</p>
+            <p>Thirdly. <hi>Kings, when faulty, may be dealt withall;</hi> ſome have thought (and that ra<g ref="char:EOLhyphen"/>tionally) that the Kingdom of <hi>Judah,</hi> was carryed captive for their <hi>Kings</hi> cruelty: and the reaſon they give, is, becauſe the people, did not reſiſt their <hi>King.</hi> Certain, if it were a fault in them not to reſiſt, it can not be <hi>injuſtice</hi> in us to queſtion a <hi>King.</hi> I ſhall at this time only acquaint you with what I find in <hi>Alſtedius</hi> (a great and ſedulous Rea<g ref="char:EOLhyphen"/>der, and a man impartiall and unbyaſſed) He in his <hi>Enciclopedia,</hi> in the 23. book, pag. 1427. layes down this concluſion.
+<q>All and every Subject may reſiſt a Tyrant.</q>
+            </p>
+            <p>Upon this, he comments thus. Concerning this concluſion, it hath been anxiouſly disputed, both by <hi>Divines,</hi> and <hi>Politicians.</hi> For things (he ſaith) have in this buſi<g ref="char:EOLhyphen"/>neſſe bin inquired after, which he thus ſets down.
+<list>
+                  <item>1. Who is a Tyrant.</item>
+                  <item>2. Who may reſiſt him.</item>
+                  <item>3. Why, and wherefore.</item>
+                  <item>4. How long.</item>
+               </list>
+            </p>
+            <p>As to the firſt and ſecond, he ſaith thus. A Tyrant is one who either wants, or hath a title. He is a <hi>Tyrant</hi> without a title, who uſurpes, or invades, either openly, or clan<g ref="char:EOLhyphen"/>deſtinely, a Common-wealth which is not his, by the juſt title either of <hi>election,</hi> or
+<hi>ſucceſſion.</hi> And concerning this, there is no doubt, but its lawfull for any one (even a private perſon) to put him to death, &amp;c.</p>
+            <p>But a tyrant with a title (who alſo is called free-born) is one who by publique au<g ref="char:EOLhyphen"/>thority, either of <hi>election,</hi> or
+<hi>ſucceſſion,</hi> hath obtained Imperiall power, but doth abuſe it. The notes, ſignes, and Characters of ſuch a one are. Partly generall, as to
+<hi>violate the fundamentall Lawes of a Common-wealth, to be an injury to his Subjects, to abuſe the rights of Majeſty, to do</hi> (what in him lyes)
+<hi>to overthrow the ſtate of the Common-wealth:</hi> More ſpecial markes are, <hi>to convert the treaſury of the Common-wealth, either to his own private uſe, or to the detriment of the publique: to waſt, diminiſh, or alienate, the goods of the King<g ref="char:EOLhyphen"/>dom, to take away the Eſtate of the Subject, and exhauſt them, either by force, or fraud, to wage war to the undoing of the Subject, &amp;c.</hi> And ſo he goes on reckoning up the ſignes of a
+<hi>Tyrant,</hi> and amongſt others, (I forbear all, being in haſt) he reckons up the <hi>prohi<g ref="char:EOLhyphen"/>bition or hinderance of</hi> (much more certainly the warring againſt) <hi>Parliaments or con<g ref="char:EOLhyphen"/>junctions of ſtate.</hi> Now concerning ſuch a one (ſaith he) we do judge thus. That if he have been often <hi>admoniſhed,</hi> and do not repent (alas! we know of admonition, but who knowes of repentance?) if he reine the Common-wealth; if he make a prey of all, (<hi>i.e.</hi> if he perſiſt to attempt it) if he break his Oath (as certainly, the man you wot of, hath) if <hi>he haſtily oppoſe godlineſſe,</hi> He is to be <hi>dethroned</hi> by the Ephori (<hi>i.e.</hi> which is the <hi>Parl.</hi>) who gave, or committed the regall power unto him. But if this cannot con<g ref="char:EOLhyphen"/>veniently be done, he is to be ſuppreſſed by Armes, as an <hi>enemy to the Country or King<g ref="char:EOLhyphen"/>dom.</hi> Now the moſt weighty of thoſe reaſons, which are urged to maintain this opi<g ref="char:EOLhyphen"/>nion, are theſe, as he thus recites there.</p>
+            <p n="1">
+               <pb n="6" facs="tcp:117212:4"/>1. <hi>Subjects are obliged to Princes but conditionally,</hi> viz. <hi>whiles they governe iuſtly.</hi> For a
+<hi>Prince</hi> is conſtitued by the people, through their Heads, (or Preſentatives) to be a <hi>Father, Preſerver, Protector, Defender,</hi> and
+<hi>Shepherd</hi> of the Subjects. By the ſame he is, or may be
+<hi>exauthorized,</hi> (or Dethroned) and ſuppreſſed by force, when he is a <hi>Deſtroyer, Oppreſſor,</hi> and <hi>wicked Ruler.</hi> And ſo is a
+<hi>Lyon,</hi> a <hi>Beare,</hi> a <hi>Woolfe,</hi> or <hi>Vulture.</hi> He is an evill <hi>Pilote,</hi> who doth make a hole in the Ship (i.e. the Common wealth in which he lives) and as much as in him lies, deſtroyes, and overthrowes the univerſall Society over which he is, in that he overthowes the fundamentall Rights, and Lawes, as well of Eccleſiaſticall, as of Civill Power. The Subjects there<g ref="char:EOLhyphen"/>fore are obliged to the Prince, <hi>ſo farre as he governes the Common-wealth aright.</hi> Now the obligation ceaſeth, when the condition thereof faileth.</p>
+            <p n="2">2. <hi>Princes doe conſtitute aright or power, of reſiſting themſelves:</hi> becauſe either ta<g ref="char:EOLhyphen"/>citely, or expreſſely, they give conſent to that condition: that the States or Peeres of the Kingdome, ſhould riſe up againſt them, if they doe otherwiſe then right, or as they ought.</p>
+            <p n="3">3. <hi>A Prince acting againſt the agreements, and fundamentalls of a Kingdome,</hi> and thereby loſing that (otherwiſe) inviolable Majeſty? Becomes upon this <hi>a private perſon,</hi> to reſiſt whom, is generally allowed of by all.</p>
+            <p n="4">4. <hi>The conſtitution of a King doth not take away that lawfull defence againſt force, and injury, which the Law of Nature doth grant to any:</hi> eſpecially to a people, who would puniſh a Prince that is a notorious Tyrant.</p>
+            <p n="5">5. <hi>The Civill Lawes</hi> (which, my friend, were Imperiall, and are ſtill in great force in forreigne parts) <hi>doe confirme this opinion;</hi> while they delare thus: <hi>We are not to obey a Prince ruling either above the limits of the power intruſted him; or beyond their power committed to him: For the Common-weale by conſtituting a King, doth not rob, or deprive it ſelfe of the power of its owne preſervation, and give it to him.</hi>
+            </p>
+            <p>Examples of ſuch as have reſiſted the chiefe Magiſtrate, occurre, 1 <hi>King.</hi> 1.2. Where the 10 Tribes revolt from
+<hi>Rehoboam.</hi> 2 <hi>Chron.</hi> 26. Where the <hi>high Prieſt</hi> reſiſteth King <hi>
+                  <g ref="char:V">Ʋ</g>ſſiah.</hi> 2 <hi>King.</hi> 11. Where the
+<hi>high Prieſt Jehojada</hi> gave command, for the putting of Queene
+<hi>Athalia</hi> to death, &amp;c. But he adds, farre be it from us to ſay, that it is lawfull for every, or any private perſon, to put a Tyrant to death. So the windowes, yea the gates would be wide open to the Man-ſlaughter, and Murder of all Kings, &amp;c.—But foraſmuch as a Tyrant is therefore reſiſted, that the publike ſafety may remaine ſecure, it followes therefore, that the Peeres and <hi>Powers of State,</hi> who are, as it were, the compendium (ſaith he) of the Common-weale, (as indeed our Parliament is) that they give judgement by publike authori<g ref="char:EOLhyphen"/>tie, conſerning the Kings government, and that they <hi>ought to remove that Tyrant;</hi> yet ſo, as that they accommodate the aſſiſtance of the people. I might adde to theſe reaſons of his, but I forbeare.</p>
+            <p>Now as to the third thing: <hi>viz. For what end, or why a Tyrant is, or may thus be reſiſted.</hi> This he gives ſhortly thus. <hi>That ſo the Common-weale may be ſecured, and the Tyrant himſelfe</hi> (if it may be by any meanes) <hi>may be brought to be fruitfull,</hi> (i.e. by repentance.)</p>
+            <p>To the laſt particular: <hi>How long this is to laſt,</hi> or continue. He ſaith, <hi>Till hee</hi> (that is the Tyrant) <hi>amend.</hi> But if no hope thereof appeare, ſo long as the ſafety of the Kingdome will permit.</p>
+            <p>
+               <pb n="7" facs="tcp:117212:4"/>
+               <hi>Object.</hi> But if the Peeres, or Powers of State (ſaith the ſame Author) further him (i.e. the Tyrant-King) and nouriſh his Tyranny. What may, or ſhall the people doe?</p>
+            <p>
+               <hi>Anſw.</hi> For a good time, or a long time, they muſt forbeare, or be quiet. Till pa<g ref="char:EOLhyphen"/>tience it ſelfe, often, and long abuſed, turne into impatiencie. Thus that <hi>light of Ger<g ref="char:EOLhyphen"/>many, Tranſilvania, yea of Europe</hi> (as a fire, and no flattering Pen ſtiles)
+<hi>Alſtedius.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> But (you will ſay) in all this, here is no mention of putting Kings to death.</p>
+            <p>
+               <hi>Anſw.</hi> True: None directly. But I preſume, you are ſo rationall, as not to deny it conſequentially. Certainely the ſame grounds urged for depoſing, &amp;c. of Kings, will alſo hold their putting them to death, where juſtice and neceſſity call for it. The ſecurity of a <hi>Kingdome</hi> is to be prized, above the ſecurity of a <hi>King.</hi> And when it can<g ref="char:EOLhyphen"/>not be otherwiſe, better one man dye, by the Sword of
+<hi>Juſtice,</hi> then many (yea a Kingdome) bleed by the Sword of
+<hi>Tyranny.</hi>
+            </p>
+            <p>But what Inſtances can be given (will you ſay.) Its good acting by a Preſident.</p>
+            <p>I Reply. Tis lawfull without. Suppoſe ſome Inſtances could not be given, muſt therefore the thing be unlawfull? Surely, <hi>non ſequitur.</hi> If ſome Kings formerly were ſo good, as not to deſerve it: or ſome People ſo weak, as not to inflict it. Shall not others be ſo wiſe as to puniſh, when their Kings ſhall be ſo wicked as to deſerve it.</p>
+            <p>But we need not runne to this ſhort (yet ſure) refuge: I could give Inſtances e<g ref="char:EOLhyphen"/>nough to cleare this. That <hi>If Kings deſerve, States may inflict death upon them. Thry<g ref="char:EOLhyphen"/>ninius</hi> (the proud) was dethroned, his goods confiſcated, and certainly (ſaith <hi>Livie</hi>) had he been taken (for he fled) ſhould have been otherwiſe puniſhed. If you ſay, his crimes were above <hi>Charles Stuarts,</hi> I think when you have read
+<hi>Livie,</hi> you will ſay, they were leſſe. For he ſaith, <hi>He was guilty, of not hearkning to the advice of the Se<g ref="char:EOLhyphen"/>nate, That he made Warre of his owe head</hi> (as the King did againſt the <hi>Scots,</hi> and that
+<hi>againſt the conſent and counſell of the Parliament</hi>) That he violated the Lawes, &amp;c.</p>
+            <p>The Hiſtories of the <hi>Athenian</hi> and <hi>Lacedemonian</hi> Common-weales, are plentifull in this kinde.</p>
+            <p>
+               <hi>Q.</hi> But they are <hi>Heathen.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> What then? Had not they <hi>Juſtice:</hi> And ſhall not Chriſtians, rather goe before, then not follow them therein. But our <hi>Engliſh Hiſtories</hi> tell you of <hi>Edward</hi> the 2d.
+<hi>John,</hi> and others, that were dethroned by Parliament. I am in haſte, therefore I ſhall onely referre you to <hi>Buchanan:</hi> and if have not time to read him. Any of the <hi>Scots</hi> (and you know ſome) will tell you, of Kings enough, which their Kingdom hath tri<g ref="char:EOLhyphen"/>ed, and proceeded againſt.</p>
+            <p>
+               <hi>Q.</hi> But heres no <hi>Scripture-Juſtice</hi> you will ſay.</p>
+            <p>
+               <hi>A.</hi> True: It needs not. The <hi>The Law of Nature, and Nations</hi> in theſe caſes will ſuffice. <hi>Jus politicum</hi> is enough in <hi>Politcks.</hi> Why ſhould any (eſpecially who content themſelves with, yea and contend, that <hi>jus humanum,</hi> may ſuffice in Church-affaires) why (I ſay) ſhould theſe require <hi>jus divinum</hi> in
+<hi>Civills;</hi> yet is not the Scripture all<g ref="char:EOLhyphen"/>together ſilent. For there we read of <hi>Amaziah king of Judah,</hi> put to death by his Subjects, with a generall conſent, (the Spirit of the Lord not mentioning (as he doth in other things) the leaſt diſallowance thereof) 2 <hi>Chron.</hi> 25.27. I confeſſe, I finde not the cauſe fully expreſſed; But in the Hebrew notes of <hi>Rabbi Solomon Jarchi</hi> I finde this: <hi>That the heart of every man was grieved for his ſons, for his brethren, and kinſmen, which were ſlain by his meanes, in warre againſt Joſias king of Iſrael.</hi> Note, this was but for a <hi>raſh warre</hi> waged againſt another King, to the ſlaughter of his Subjects; what<pb n="8" facs="tcp:117212:5"/>then ſhall be done to him, that hath waged a long, bloody warre againſt his Subject? <hi>Sed manam de tabulam.</hi>
+            </p>
+            <p>I have almoſt done, you know he was no <hi>Independant</hi> (ſo nick-named) who ſaid, <hi>Fiat juſtitia, &amp; ruat Mundus.</hi> Better certainly, expoſe the Kingdom, to an other ſha<g ref="char:EOLhyphen"/>king by War, (through the execution of juſtice) then expoſe it, to a <hi>three years famine;</hi> (preſident whereof we have, 2 <hi>Sam.</hi> 21.) for not puniſhing a bloody houſe. Surely the blood of the <hi>Engliſh</hi> is as deare to God, as the blood of the <hi>Gibeonites,</hi> and <hi>the houſe of Stewards, as bloody as the houſe of Saul.</hi>
+            </p>
+            <p>I have thus haſtily ſcribled this paper, if not to your ſatisfaction, yet at leaſt, to my owne: And I hope by this you will ſee, that I am more rationall, then caſt in that approbation which I gave to the
+<hi>Armies Remonſtrance.</hi> For a cloſe, I proteſt, that I am perſwaded, that the things now agitated are of the Lord: Therefore it is that I approve them: And humbly adviſe you, not to oppoſe them; leaſt you be found <hi>Tiomachan.</hi> To fight againſt him ignorantly, whom, I hope you love ſincerely, <hi>viz.</hi> the God of love, and alſo of Juſtice, Its eaſie to doe that in an houre, which we cannot undoe in a yeare: After-wit indeed is bought, and accounted beſt, but you know it coſts deare. I beleeve ſome repents of the laſt Summers raſhneſſe, and will doe whils they live. But this not in <hi>Kent;</hi> for ſince old and good Sir
+<hi>Anthony</hi> is dead, the Committee hath loſt its life. And ſome of them act, as if they made little account of their Soules: <hi>Godfrey of Bulloigne</hi> is not amongſt them. There is one indeed of that name: But alas! he read <hi>The Armies Remonſtrance,</hi> wondred at it, Cryed it up, And then ſate down againe, and is now, &amp;c. a <hi>Jacobine Proſelite.</hi>—</p>
+            <p>As touching your feare of an <hi>inundation of Errours,</hi> and a
+<hi>devaſtation of the Mini<g ref="char:EOLhyphen"/>ſtry,</hi> and <hi>Learning.</hi> You know, that I hate <hi>Errors</hi> as much as you; and I confeſſe, tho I feare them (for they are evill) yet I hope the <hi>Weapon of our Warfare being Spi<g ref="char:EOLhyphen"/>vituall,</hi> will alſo be <hi>mighty.</hi> And as to <hi>Learning,</hi> and the <hi>Miniſtery,</hi> you know, I have cauſe to love them: And, I muſt confeſſe, I am ſo far, from fearing any evill to befall them. That I expect, (I have reaſon to hope) their advancement.</p>
+            <p>But to end. Its a fitting ſeaſon: Rotten leaves, (and branches too) fall apace. <hi>Be not you high minded, but feare:</hi> The day is ſurely dawned, in which <hi>the loftineſſe of man, ſhall be bowed downe; and the haughtineſſe of men ſhall be made low, and the Lord alone ſhall be exalted in this day.</hi> Its my adviſe to you, and indeard for my ſelfe, to pro<g ref="char:EOLhyphen"/>vide a ranſome from <hi>Divine Juſtice</hi> hereafter, rather then to hinder, or ſpeak againſt, the executing of <hi>humane juſtice</hi> here. At the <hi>great day,</hi> Chriſt will not diſtinguiſh be<g ref="char:EOLhyphen"/>tween <hi>Kings</hi> and <hi>Clownes.</hi> Princes at his bar, will be proceeded againſt, according to their deſarts.</p>
+            <p>Indeed tis true, the <hi>World counts</hi> them, and <hi>the Word calls</hi> them <hi>Gods:</hi> But it ſaith alſo, that they <hi>muſt die</hi> (at beſt) <hi>as men:</hi> And for my part, if they deſerve it, I think it all reaſon, they ſhould dye as <hi>Mallefactors.</hi> When
+<hi>Kings</hi> fall from their <hi>goodneſſe,</hi> they loſe their Diety: And when they <hi>fight againſt their Subjects, and break their oathes,</hi> they forfeit their <hi>Kingſhip.</hi> If <hi>Charles Steward</hi> have done evill, and deſerve it, in Gods name, and the Kingdomes Peace, let him die: I ſhall pray that <hi>free grace</hi> may ſave his ſoule, when
+<hi>Juſtice</hi> ſhall deſtroy his <hi>body.</hi>
+            </p>
+            <closer>I am <salute>Sir,</salute>
+               <signed>Your friend and ſervant, N. T.</signed>
+               <dateline>
+                  <date>Jan. 1. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
